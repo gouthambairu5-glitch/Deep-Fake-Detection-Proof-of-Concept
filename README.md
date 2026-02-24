@@ -1,2 +1,2 @@
 # Deep-Fake-Detection-Proof-of-Concept
-Deep Fake Detection 
+Deep Fake Detection
